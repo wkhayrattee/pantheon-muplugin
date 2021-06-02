@@ -1,0 +1,12 @@
+{
+  "name": "pantheon/muplugin",
+  "description": "the latest mu-plugin extracted from https://github.com/pantheon-systems/wordpress-composer",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wasseem",
+      "email": "hey@wk.contact"
+    }
+  ]
+}
